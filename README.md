@@ -1,4 +1,4 @@
-# Outline Post Processing Stack Playmaker Action Set
+# Post Processing Stack Playmaker Action Set
 
 These c# files have been created to be used in conjunction with the Unity3d asset Post Processing Stack found on the Unity Asset Store.
 https://www.assetstore.unity3d.com/en/#!/content/83912
